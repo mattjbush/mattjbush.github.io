@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Curriculum Vitae
+[Curriculum Vitae](https://mattjbush.github.io/files/cv.pdf "CV")
