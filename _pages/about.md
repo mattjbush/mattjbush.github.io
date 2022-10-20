@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. candidate in economics at Indiana University Bloomington.
 
-My research focuses on macroeconomics and labor economics and also relates to family economics and personnel economics.
+My research focuses on macroeconomics and labor economics.
 
 I am currently on the 2022-23 job market and am available for interviews.
 
