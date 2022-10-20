@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Curriculum Vitae](mattjbush.github.io/files/cv.pdf "CV")
+[Curriculum Vitae](files/CV.pdf "CV")
