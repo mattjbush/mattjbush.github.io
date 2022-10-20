@@ -1,11 +1,11 @@
 ---
-title: "High-Skill Labor Cyclicality and the Role of Pay"
+title: "High-Skill Labor Cyclicality and the Role of Pay (Job Market Paper)"
 collection: publications
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: ''
+paperurl: ''
+citation: ''
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
