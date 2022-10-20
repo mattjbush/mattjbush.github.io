@@ -14,6 +14,4 @@ My research focuses on macroeconomics and labor economics.
 
 I am currently on the 2022-23 job market and am available for interviews.
 
-You can find my CV here.
-
 Contact: mattbush@iu.edu 
