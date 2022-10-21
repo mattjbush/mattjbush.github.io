@@ -12,4 +12,4 @@ I am a Ph.D. candidate in economics at Indiana University Bloomington.
 My research focuses on macroeconomics and labor economics.
 
 I am currently on the 2022-23 job market.   
-Contact: mattbush@iu.edu
+Email: mattbush@iu.edu
