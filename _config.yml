@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Matthew Bush"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Matthew Bush"
 description              : &description "" # "Ph.D. Candidate"
